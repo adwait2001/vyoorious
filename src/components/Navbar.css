@@ -1,0 +1,38 @@
+.bg-light{
+    background-color: white !important;
+}
+
+.navbar-brand{
+    margin-right: 3rem !important;
+    margin-top: 1rem !important;
+    margin-bottom: 1rem !important;
+}
+
+.navbar{
+    border: 1px solid #f1f1f1;
+}
+
+.nav-link{
+    color: rgb(119, 119, 103) !important;
+}
+
+.nav-item{
+    margin: auto !important;
+    padding-top: 10px !important;
+}
+
+.one{
+    margin-right: 5rem !important;
+}
+
+.btn-default{
+    background-color: rgb(218, 157, 45);
+}
+
+.btn-default span{
+    color: white;
+}
+
+.btn-default{
+    margin-right: 2.3rem;
+}

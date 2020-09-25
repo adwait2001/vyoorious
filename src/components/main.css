@@ -1,0 +1,48 @@
+#header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.text{
+    margin-top: 5rem;
+    display: flex;
+    margin-left: 7rem;
+    flex-direction: column;
+}
+
+.image{
+    margin-top: 5rem;
+    display: flex;
+    margin-left: 0rem;
+    margin-right:2rem ;
+}
+
+.orange{
+    color: rgb(201, 148, 49);
+}
+
+.content{
+    margin-left:3rem ;
+    margin-top: 3rem;
+}
+
+.btn-one{
+    border-radius: 8px;
+    margin-top: 1rem;
+    padding: 1rem 4rem;
+    margin-left: 13px !important;
+    margin-right: 0px !important;
+}
+
+.btn-two{
+    border: 1px solid orange;
+}
+
+.btn-two:hover{
+    background-color: green;
+}
+
+.btn-text-2{
+    color: orange;
+}
